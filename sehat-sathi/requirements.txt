@@ -1,0 +1,14 @@
+streamlit
+langchain-groq
+chromadb
+SpeechRecognition
+pyttsx3
+gTTS
+pypdf
+pdfplumber
+langdetect
+plotly
+APScheduler
+requests
+icalendar
+fpdf2

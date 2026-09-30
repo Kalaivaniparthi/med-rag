@@ -1,0 +1,30 @@
+GREENFIELD GENERAL HOSPITAL - DISCHARGE SUMMARY (FICTIONAL SAMPLE)
+Patient: Asha Verma    Age/Sex: 52 / F    Patient ID: GG-558120
+Admission date: 2026-09-25    Discharge date: 2026-09-29    Length of stay: 4 days
+Attending surgeon: Dr. Neha Kapoor
+
+Diagnosis
+Acute appendicitis.
+
+Procedure
+Laparoscopic appendectomy was performed on 2026-09-25 under general anaesthesia. The procedure was
+uncomplicated. The patient was observed for four days after surgery, tolerated oral diet from day 2,
+and had no fever at discharge.
+
+Hospital course
+Pain was managed with intravenous paracetamol and then with tablets. Intravenous antibiotics were changed to
+oral antibiotics on day 3. The surgical wounds are clean and dry. Blood tests before surgery showed a raised
+white cell count which was improving at discharge.
+
+Medications on discharge
+1. Amoxicillin 500 mg, three times a day (TID) for 7 days, starting 2026-09-29.
+2. Paracetamol 500 mg, as needed (PRN) for pain, not more than four tablets in a day.
+3. Omeprazole 20 mg, once daily (OD) in the morning for 7 days, starting 2026-09-29.
+
+Wound care and activity
+Keep the wound dry for 48 hours. Avoid lifting heavy weights for two weeks. Walking is encouraged.
+Return to the emergency department if there is high fever, severe abdominal pain, or wound discharge.
+
+Follow-up
+Follow-up appointment with Dr. Neha Kapoor at Greenfield General Hospital, Surgery OPD, Room 12,
+on 2026-10-13 at 10:30 for wound review and suture check (two weeks after discharge).

@@ -1,0 +1,68 @@
+SUNRISE DIAGNOSTICS LABORATORY - CUMULATIVE LAB REPORT (FICTIONAL SAMPLE)
+Patient: Asha Verma    Age/Sex: 52 / F    Patient ID: SD-104233
+Referring physician: Dr. Rohan Mehta
+
+==================================================
+VISIT 1 - Report date: 2026-01-15
+==================================================
+Complete Blood Count (CBC)
+Hemoglobin: 11.8 g/dL (Reference 12.0 - 15.5)
+WBC count: 7.2 x10^3/uL (Reference 4.0 - 11.0)
+Platelet count: 245 x10^3/uL (Reference 150 - 450)
+
+Lipid Panel
+Total Cholesterol: 224 mg/dL (Desirable below 200)
+LDL Cholesterol: 148 mg/dL (Optimal below 100)
+HDL Cholesterol: 42 mg/dL (Reference above 50)
+Triglycerides: 172 mg/dL (Normal below 150)
+
+Diabetes Markers
+HbA1c: 6.6 % (Normal below 5.7)
+Fasting Glucose: 128 mg/dL (Reference 70 - 99)
+
+Thyroid Function
+TSH: 4.9 mIU/L (Reference 0.4 - 4.0)
+
+==================================================
+VISIT 2 - Report date: 2026-04-20
+==================================================
+Complete Blood Count (CBC)
+Hemoglobin: 12.1 g/dL (Reference 12.0 - 15.5)
+WBC count: 6.9 x10^3/uL (Reference 4.0 - 11.0)
+Platelet count: 251 x10^3/uL (Reference 150 - 450)
+
+Lipid Panel
+Total Cholesterol: 205 mg/dL (Desirable below 200)
+LDL Cholesterol: 136 mg/dL (Optimal below 100)
+HDL Cholesterol: 45 mg/dL (Reference above 50)
+Triglycerides: 158 mg/dL (Normal below 150)
+
+Diabetes Markers
+HbA1c: 6.3 % (Normal below 5.7)
+Fasting Glucose: 118 mg/dL (Reference 70 - 99)
+
+Thyroid Function
+TSH: 4.4 mIU/L (Reference 0.4 - 4.0)
+
+==================================================
+VISIT 3 - Report date: 2026-08-25
+==================================================
+Complete Blood Count (CBC)
+Hemoglobin: 12.6 g/dL (Reference 12.0 - 15.5)
+WBC count: 7.0 x10^3/uL (Reference 4.0 - 11.0)
+Platelet count: 260 x10^3/uL (Reference 150 - 450)
+
+Lipid Panel
+Total Cholesterol: 189 mg/dL (Desirable below 200)
+LDL Cholesterol: 122 mg/dL (Optimal below 100)
+HDL Cholesterol: 48 mg/dL (Reference above 50)
+Triglycerides: 141 mg/dL (Normal below 150)
+
+Diabetes Markers
+HbA1c: 6.0 % (Normal below 5.7)
+Fasting Glucose: 108 mg/dL (Reference 70 - 99)
+
+Thyroid Function
+TSH: 3.8 mIU/L (Reference 0.4 - 4.0)
+
+Note: Values are fictional and provided for software demonstration only.
